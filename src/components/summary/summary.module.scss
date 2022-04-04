@@ -1,0 +1,14 @@
+.emptyState {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  padding: 1rem;
+}
+
+.summaryWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
